@@ -1,5 +1,5 @@
 # Scientific-Calculator
-<p align="center">This project is designed to perform all mathematic operations and is basically a small version of a real time scientific calculator.</p>
+<p align="left">This project is designed to perform all mathematic operations and is basically a small version of a real time scientific calculator.</p>
 
 ## 📓 Tools used
 
